@@ -1,7 +1,7 @@
 # 🐶 End-to-End Multi-class Dog Breed Classification
 A complete end to end solution for a multiclass classification problem of identifying the breed of dogs.
 
-## This notebook builds an end-to-end multi-class image classifier using TensorFlow 2.0 and TensorFlow Hub.
+## This notebook builds an end-to-end multi-class image classifier using TensorFlow 2.11.0 and TensorFlow Hub.
 
 ## 1. Problem
 
